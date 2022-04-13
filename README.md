@@ -1,0 +1,2 @@
+# HospitalManagingsystem
+基于Web的医院信息管理系统
